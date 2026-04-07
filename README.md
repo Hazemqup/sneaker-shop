@@ -43,3 +43,9 @@ This project uses Git and GitHub to track development progress and manage change
 ## Author
 - Your hazem hareth
 - Course: FdSc Software Development
+
+## 🔍 Future Improvements
+- Improved UI design
+- Image upload functionality
+- Advanced search filters
+- Better form validation
