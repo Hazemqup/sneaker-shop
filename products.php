@@ -31,7 +31,7 @@ $sneakers = $stmt->fetchAll(PDO::FETCH_ASSOC);
                 echo "<p><strong>Brand:</strong> " . htmlentities($s['brand']) . "</p>";
                 echo "<p><strong>Price:</strong> £" . htmlentities($s['price']) . "</p>";
                 echo "<p><strong>Description:</strong> " . htmlentities($s['description']) . "</p>";
-                echo "<img src='images/" . htmlentities($s['image']) . "' width='150'>";
+                echo "<img src='images/" . htmlentities($s['image']) . "' alt='" . htmlentities($s['name']) . "' width='150'>";
                 echo "</div>";
             }
         }
