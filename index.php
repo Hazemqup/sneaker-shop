@@ -10,7 +10,7 @@
 
         <?php include_once 'navigation.php'; ?>
         <main>
-            <h1>Welcome to Sneaker Shop</h1>
+            <h1>Welcome to Your Sneaker Shop</h1>
             <p>Your destination for limited edition sneakers.</p>
         </main>
     </body>
