@@ -11,7 +11,7 @@
         <?php include_once 'navigation.php'; ?>
         <main>
             <h1>Welcome to Your Sneaker Shop</h1>
-            <p>Your destination for limited edition sneakers.</p>
+            <p>Your destination for limited edition sneakers in the World.</p>
         </main>
     </body>
 </html>
